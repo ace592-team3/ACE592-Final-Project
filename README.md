@@ -9,6 +9,10 @@ For the first aspect of our research, the goal is to obtain insights on how the 
 For the second aspect, we investigate whether stay-at-home order affected the number of incidents for different types of crime. We find that Chicago did not experience any significant changes in homicide, domestic crime, and total crime count over the Covid-19 period. When compared to the pre-Covid-19 era, we find a sizeable reduction in total crime count after the stay-at-home order was enacted. 
 
 ## Data Source
-The Chicago crime data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. It is available for public query via [Kaggle](https://www.kaggle.com/chicago/chicago-crime)/Google Cloud/[City of Chicago Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present-Dashboard/5cd6-ry5g).
+The Chicago crime data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. It is available for public query via Kaggle/Google Cloud.
 
 The community area level housing price data is obtained from [Zillow](https://www.zillow.com/research/data/). The dataset represents a smoothed, seasonally adjusted measure of typical home value across region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. 
+
+The population data we use to calculate crime rate for each community area is from the U.S. 2010 Census. It can be accessed via [Chicago Metropolitan Agency for Planning](https://datahub.cmap.illinois.gov/dataset/2010-census-data-summarized-to-chicago-community-areas).
+
+
