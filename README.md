@@ -8,8 +8,5 @@ For the first aspect of our research, the goal is to obtain insights on how the 
 
 For the second aspect, we investigate whether stay-at-home order affected the number of incidents for different types of crime. We find that Chicago did not experience any significant changes in homicide, domestic crime, and total crime count over the Covid-19 period. When compared to the pre-Covid-19 era, we find a sizeable reduction in total crime count after the stay-at-home order was enacted. 
 
-
-
-
-
 ## Data Source
+
