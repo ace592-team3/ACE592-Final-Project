@@ -15,7 +15,12 @@ The community area level housing price data is obtained from [Zillow](https://ww
 
 The population data we use to calculate crime rate for each community area is from the U.S. 2010 Census. It can be accessed via [Chicago Metropolitan Agency for Planning](https://datahub.cmap.illinois.gov/dataset/2010-census-data-summarized-to-chicago-community-areas).
 
-Covid-19 data are extracted from [City of Chicago database](https://data.cityofchicago.org/Health-Human-Services/COVID-19-Cases-Tests-and-Deaths-by-ZIP-Code/yhhz-zm2v). The dataset includes weekly positive cases by zipcode.
+The community area geospatial data we use for plotting is from the [Chicago Data Portal](https://www.kaggle.com/threadid/chicago-shape-files).
+
+Lastly, our Covid-19 data is provided by the [City of Chicago](https://data.cityofchicago.org/Health-Human-Services/COVID-19-Cases-Tests-and-Deaths-by-ZIP-Code/yhhz-zm2v).
+
+## Directory Layout
+The "Crime and Housing Prices" iPython Notebook file contains all the code we use for the first aspect of our research. The code for our crime and Covid-19 analysis can be found in the "Crime and Covid-19" iPython Notebook. The formal summary of our research is documented in the "Team3_WriteUp" PDF file.  
 
 
 
