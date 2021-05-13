@@ -20,7 +20,7 @@ The community area geospatial data we use for plotting is from the [Chicago Data
 Lastly, our Covid-19 data is provided by the [City of Chicago](https://data.cityofchicago.org/Health-Human-Services/COVID-19-Cases-Tests-and-Deaths-by-ZIP-Code/yhhz-zm2v).
 
 ## Directory Layout
-The "Crime_Housing" iPython Notebook file contains all the code we use for the first aspect of our research. 
+The "Crime_Housing_Part1" and "Crime_Housing_Part2" iPython Notebook files contain all the code we use for the first aspect of our research. 
 
 The code for our crime and Covid-19 analysis can be found in the "Crime_Covid" iPython Notebook. 
 
