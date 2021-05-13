@@ -24,7 +24,7 @@ The "Crime and Housing Prices" iPython Notebook file contains all the code we us
 
 The code for our crime and Covid-19 analysis can be found in the "Crime and Covid-19" iPython Notebook. 
 
-And the formal summary of our research is documented in the "Team3_WriteUp" PDF file.  
+And the formal summary of our research is documented in the "Team3_WriteUp" PDF file. We also include the slides for our presentation in the "Team3_Slides" file. 
 
 
 
